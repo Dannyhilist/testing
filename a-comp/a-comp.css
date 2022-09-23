@@ -1,0 +1,55 @@
+h1 {
+    font-family: century gothic;
+    color: rgba(46, 101, 173, 0.733);
+    /*border: 1px solid black;*/
+    display: inline-block;
+    position: absolute;
+    margin-top: 30px;
+    margin-bottom: 3%;
+    margin-left: 1%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+.modulo-a-comp {
+    /*border: 1px solid black;*/
+    position: relative;
+    background: rgba(59, 128, 218, 0.507);
+    font-family: century gothic;
+    color: aliceblue;
+    font-weight: bold;
+    text-shadow: 2px 3px 4px rgba(255, 255, 255, 0.288);
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.itens {
+    /*border: 1px solid black;*/
+    margin-top: 3%;
+    margin-right: 45px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(59, 128, 218);
+}
+
+li {
+    background: rgba(167, 170, 214, 0.466);
+    /*border: 1px solid black;*/
+    border-radius: 25px;
+    box-shadow: 2px 3px rgba(5, 34, 97, 0.233);
+    position: relative;
+    display: block;
+    
+    padding: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-bottom: 20px;
+
+    text-align: center;
+    font-weight: bold;
+    font-family: Century Gothic;
+}
